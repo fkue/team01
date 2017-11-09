@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTestForm", "GitTestForm\GitTestForm.csproj", "{3EE6F5DF-42E1-42EB-A5BF-9C0BB0FD068F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE6F5DF-42E1-42EB-A5BF-9C0BB0FD068F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE6F5DF-42E1-42EB-A5BF-9C0BB0FD068F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE6F5DF-42E1-42EB-A5BF-9C0BB0FD068F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE6F5DF-42E1-42EB-A5BF-9C0BB0FD068F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129E8C22-9E8A-4D42-B0B8-9D760C072958}
+	EndGlobalSection
+EndGlobal
