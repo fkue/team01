@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace GitTestForm {
     public partial class Form2 : Form {
-        Form opener;
+        Form opener2;
 
         public Form2(Form parentForm) {
             InitializeComponent();
-            opener = ParentForm;
+            opener2   = ParentForm;
         }
 
         private void Form2_Load(object sender, EventArgs e) {
